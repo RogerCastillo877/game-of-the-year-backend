@@ -7,7 +7,9 @@ npm install -g firebase-tools
 * firebase serve
 
 ** firebase init emulators
-** firebase emulators:start --only functions
+** firebase emulators:start --only
+* firebase deploy
+functions
 
 ## To make changes
 cd functions
